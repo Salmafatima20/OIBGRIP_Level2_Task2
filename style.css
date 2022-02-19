@@ -1,0 +1,35 @@
+body{
+    background-color: rgba(181, 192, 181, 0.2);
+    margin:10 20%;
+    font-family: monospace;
+}
+
+#title{
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+    font-size:3em;
+}
+
+img{
+    display: block;
+    width: 40%;
+    margin: 40 0%;
+    margin-left: 80%;
+}
+
+#img-caption{
+    font-size: 8px;
+}
+
+div#tribute-info{
+    background-color:rgba(0,0,0,0.2);
+    box-shadow: 20px 20px 15px rgb(124, 35, 35);
+    padding:5px 10px;
+    margin-top:20px;
+}
+h1.title{
+    color:rgb(158, 43, 43);
+    text-align:center;
+    text-shadow: 5px 5px 10px rgb(146, 15, 15);
+}
+
